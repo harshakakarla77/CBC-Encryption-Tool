@@ -8,7 +8,7 @@ An end-to-end Cipher Block Chaining encryption tool that supports three ciphers 
 - Download all the files in the folder and keep them in the same workspace
 
 ## Working:
--Encryption:
+-Encryption
     - Run the `python file_encrypt.py` file on your python IDE to encrypt the input file
     - A tkinter GUI should appear with fields to enter the input
     - Select any file from disk that needs to be encrypted
@@ -18,7 +18,7 @@ An end-to-end Cipher Block Chaining encryption tool that supports three ciphers 
     - Enter the number of iterations (keep it within 10000000)
     - A .enc file will be created in the same workspace 
 
--Decryption:
+-Decryption
     - Run the `python file_decrypt.py` file on your python IDE to decrypt the encrypted file
     - Select the .enc file to be decrypted
     - Enter the password used for encryption
