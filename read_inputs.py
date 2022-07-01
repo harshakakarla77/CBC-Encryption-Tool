@@ -1,6 +1,6 @@
-#Harshavardhan Kakarla#
-#CSS577 A Spring 2022#
-#Encryption Assignment#
+'''
+author: @harshakakarla77
+'''
 
 import os
 import file_encrypt

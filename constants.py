@@ -1,6 +1,6 @@
-#Harshavardhan Kakarla#
-#CSS577 A Spring 2022#
-#Encryption Assignment#
+'''
+author: @harshakakarla77
+'''
 
 #Defining set of constants used in the program
 AES_BLOCK = 16 #bytes
